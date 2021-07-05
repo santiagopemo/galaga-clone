@@ -4,15 +4,19 @@ Galaga is a Martian killer video game created in 1981 by the Namco company. It w
 This repository contains a clone that mimics the most basic mechanics of the original video game, although not its appearance.  
   
 ![](galaga_clone.png)
-## Requirements :white_check_mark:
-### General
-* A README.md file, at the root of the folder of the project
-* Use Unity’s default .gitignore in your holbertonschool-unity directory
-* Push the entire project folder 2D-clone to your repo
-* In your scripts, all your public classes and their members should have XML documentation tags
-* In your scripts, all your private classes and members should be documented but without XML documentation tags
-## Tasks
-### Mandatory :page_with_curl:
-### Advance :muscle:
+## Installation
+If you want to edit the game:  
+1. Download untity from its official site https://unity3d.com/es/get-unity/download
+2. Download Blender from official site https://www.blender.org/
+3. Clone this repository `git clone https://github.com/santiagopemo/galaga-clone/`
+4. When you have opened the project in Unity go to file -> Build Settings -> Build
+
+## Usage
+If you simply want to play it go to the following website where you will find the instructions    
+[Galaga Clone Website](https://santiagopemo.github.io/galaga-clone/)  
+
 ## Author :pencil:
-**Santiago Peña Mosquera** - twitter [@santiagopemo](https://twitter.com/Santiag11470161) - LinkedIn [Santiago Peña Mosquera](https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/)
+### Santiago Peña Mosquera  
+Mechatronic engineer and student of software development in holberton school, lover of building new things from scratch, that's why my passion for programming, starting from an empty sheet and turning it into a solution for real problems.  
+<a href="https://www.linkedin.com/in/santiago-pe%C3%B1a-mosquera-abaa20196/" target="_blank">LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/santiagopemo" target="_blank">Twitter</a>
