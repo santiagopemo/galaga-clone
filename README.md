@@ -3,7 +3,9 @@
 Galaga is a Martian killer video game created in 1981 by the Namco company. It was designed as the successor to the Galaxian (1979). 
 This repository contains a clone that mimics the most basic mechanics of the original video game, although not its appearance.  
   
-![](galaga_clone.png)
+![](galaga_clone.png)  
+
+The player controls a ship that must face a swarm of insect-shaped aliens that will attack him by firing bombs and acting as kamikazes. When you start the game, the aliens do not appear immediately. Instead, they appear doing pirouettes and then take a place in a formation.
 ## Installation
 If you want to edit the game:  
 1. Download untity from its official site https://unity3d.com/es/get-unity/download
