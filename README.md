@@ -1,7 +1,8 @@
 # Galaga Clone
 ## Description
 Galaga is a Martian killer video game created in 1981 by the Namco company. It was designed as the successor to the Galaxian (1979). 
-This repository contains a clone that mimics the most basic mechanics of the original video game, although not its appearance.
+This repository contains a clone that mimics the most basic mechanics of the original video game, although not its appearance.  
+  
 ![](galaga_clone.png)
 ## Requirements :white_check_mark:
 ### General
